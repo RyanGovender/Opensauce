@@ -1,0 +1,11 @@
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\bin\Debug\net8.0\Opensauce.Core.deps.json
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\bin\Debug\net8.0\Opensauce.Core.dll
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\bin\Debug\net8.0\Opensauce.Core.pdb
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\Opensauce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\Opensauce.Core.AssemblyInfoInputs.cache
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\Opensauce.Core.AssemblyInfo.cs
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\Opensauce.Core.csproj.CoreCompileInputs.cache
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\Opensauce.Core.dll
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\refint\Opensauce.Core.dll
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\Opensauce.Core.pdb
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Core\obj\Debug\net8.0\ref\Opensauce.Core.dll

@@ -1,0 +1,7 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/25da356e-7a2d-4760-bc56-367c53e88b06/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/OpensauceApi",
+    "appService.deploySubpath": ".",
+    "cSpell.words": [
+        "Opensauce"
+    ]
+}

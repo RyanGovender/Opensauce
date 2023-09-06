@@ -1,0 +1,12 @@
+c:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\bin\Debug\net8.0\Opensauce.Infrastructure.deps.json
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\bin\Debug\net8.0\Opensauce.Infrastructure.dll
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\bin\Debug\net8.0\Opensauce.Infrastructure.pdb
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.AssemblyInfo.cs
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.dll
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\refint\Opensauce.Infrastructure.dll
+C:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\Opensauce.Infrastructure.pdb
+c:\Users\ryang\source\repos\Opensauce\src\Opensauce.Infrastructure\obj\Debug\net8.0\ref\Opensauce.Infrastructure.dll

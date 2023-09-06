@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Opensauce.Api.props" />
+</Project>
